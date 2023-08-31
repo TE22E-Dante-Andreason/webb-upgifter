@@ -1,0 +1,46 @@
+body{color: chartreuse;}
+
+h1, h2, h3{
+    color:darkgrey;
+    background-color:#40729c;
+    text-align: center;
+}
+
+p{
+    background-color: black;
+    color: aliceblue;
+}
+
+b{
+    background-color: aliceblue;
+    color: black;
+}
+
+ul{
+    background-color:black;
+}
+
+ol{
+    color: blueviolet;
+    background-color:black;
+}
+
+li{
+    color:blanchedalmond;
+    background-color: brown;
+}
+
+.Helgeandsholmen{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.bilder{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#kap2{
+    background-color: #40729c;
+}
